@@ -1,0 +1,46 @@
+/*selector universal*/
+/**{
+    background-color: white;
+}*/
+
+/*selector etiqueta*/
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+/*SELECTOR DE CLASE*/
+.imagen{
+    width: 10%;
+    border: 5px solid blue;
+}
+
+.imagenM{
+    width: 10%;
+    border: 5px solid pink;
+}
+#producto{
+    background-color: blue;
+}
+section ul {
+    background-color: green;
+}
+
+h3, p{
+    background-color: yellowgreen;
+}
+
+/*selector de hijos*/
+section>h2{
+    background-color: aqua;
+}
+/*selector adyacente*/
+p+div{
+    background-color: blueviolet;
+}

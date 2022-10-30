@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-degradado-efecto-luz-rosa-morado_53876-103819.jpg?w=996&t=st=1667147522~exp=1667148122~hmac=ccb3f16c5834fa840582879250e95b0b9cb4a6adc000e5701aa08397f194822a);
+    background-repeat: no-repeat;
+    background-size: 400%;
+}
+header{
+    text-align: center;
+    background-color: aqua;
+    width: 100%;
+}
+nav ul li {
+    display: inline-block;
+    width: 9%;
+    padding: 9px; 
+        background-color: aquamarine;
+}
+
+nav{
+    background-color: aquamarine;
+}
+
+p{
+    font-size: 24px;
+}
+.imagen2{
+    width: 24%;
+}
+.resumen, .titulo{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
